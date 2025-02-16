@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  
+    <nav>
+      <div class="logo">Welcome to Baba's Pizza</div>
+      <div class="nav-items">
+        <a href="home.html">Home</a> <a href="about.html">About</a> <a href="contacts.html">Contact</a><a href="blank.html">Menu</a>
+      </div>
+    </nav>
+   
+       <section class="hero">
+        <div class="hero-container">
+        <div class="column-middle">
+          <div class="color">
+          <h1>Here are some of our menus</h1>
+          <pre>
+        
+    
+    </pre>
+          <ol>
+            Pizza
+          
+         </ol>
+         <pre>
+         </pre>
+         <ul>
+          <div class="dotted-border">
+           <li>pepperoni</li>
+           </div>
+           <pre>
+
+           </pre>
+           <div class="dotted-border">
+             <li>Veggie lover</li>
+             </div>
+             <pre>
+            
+             </pre>
+             <div class="dotted-border">
+           <li>  Meat lover</li>
+           </div>
+           <pre>
+            
+           </pre>
+           <div class="dotted-border">
+           <li>Chesse</li>
+           </div>
+           <pre>
+            </pre>
+         </ul>
+         <pre>
+         </pre>
+         <div class="dotted-border">
+        <ol>spaghetti and meatballs</ol>
+        </div>    
+        <pre>
+
+     </pre>
+     <div class="dotted-border">
+      <ol>Authentic Tortellini Soup</ol>
+      </div>
+      <pre>
+
+     </pre>
+     <div class="dotted-border">
+      <ol>Baked Ziti with Sausage
+      </ol>
+      </div>
+     </div>
+      </div>
+        </div>
+      </div>
+      </div>
+    </div>
+    <select>
+      <option value="light">lightmode</option>
+      <option value="dark">darkmode</option>
+    </select>
+    </section>
+     
